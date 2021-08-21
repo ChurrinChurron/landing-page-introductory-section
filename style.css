@@ -129,8 +129,8 @@ section button:hover {
 
         margin-top: 0;
         position: relative;
-        top: 23rem;
-        right: 10rem;
+        top: 20rem;
+        right: 11rem;
     }
 
     #social-media a {
@@ -140,11 +140,6 @@ section button:hover {
     font-size: 1.5rem;
 }
 
-#social-media a:nth-child(1) {
-
-    padding: 15% 26%;
-}
-
     #illus #logo {
 
         width: 40%;
@@ -152,14 +147,14 @@ section button:hover {
 
     #illus #mock {
 
-    width: 140%;
+    width: 150%;
     }
 
     section {
 
     margin-top: 0;
     text-align: left;
-    margin-left: 17%;
+    margin-left: 18%;
     }
 
     section h2 {
