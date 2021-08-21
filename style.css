@@ -93,7 +93,7 @@ section button:hover {
     border: 1px solid #fff;
     margin: 0 3%;
     padding: 3% 3.5%;
-    border-radius: 55px;
+    border-radius: 50%;
     text-decoration: none;
     color: #fff;
     font-size: 1.4rem;
@@ -142,7 +142,6 @@ section button:hover {
 
     margin: 0 15%;
     padding: 15% 20%;
-    border-radius: 50px;
     font-size: 1.5rem;
 }
 
