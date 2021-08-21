@@ -139,6 +139,11 @@ section button:hover {
     padding: 15% 20%;
     font-size: 1.5rem;
 }
+    
+    #social-media a:nth-child(1) {
+    
+        padding: 15% 22%;
+    }
 
     #illus #logo {
 
