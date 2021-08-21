@@ -100,11 +100,6 @@ section button:hover {
     transition: 0.2s ease-in-out;
 }
 
-#social-media a:nth-child(1) {
-
-    padding: 3% 4%;
-}
-
 #social-media a:hover {
 
     color: var(--magneta);
